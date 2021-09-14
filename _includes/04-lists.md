@@ -1,3 +1,6 @@
--🌴:palm tree
--🥝:kiwi fruit
--✈️:airplane
+- item 1🌴:palm tree:
+- item 2🥝:kiwi fruit:
+- item 3✈️:airplane:
+-   item 3a 🐦:bird:
+-   item 3b 😄:smile:
+-   
