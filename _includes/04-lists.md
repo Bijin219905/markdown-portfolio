@@ -1,3 +1,3 @@
-🌴:palm tree
-🥝:kiwi fruit
-✈️:airplane
+-🌴:palm tree
+-🥝:kiwi fruit
+-✈️:airplane
